@@ -1,4 +1,4 @@
-# FreeDoc :syringe:	
+# FreeDoc :hospital:
 
 Welcome to our FreeDoc Application! 
 
